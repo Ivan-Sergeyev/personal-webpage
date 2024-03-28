@@ -15,7 +15,7 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://pages.gitlab.io/hugo/"
+baseurl = "https://pub.ista.ac.at/~isergeev/hugo-test/"
 title = "GitLab Pages and Hugo"
 contentdir    = "content"
 layoutdir     = "layouts"
