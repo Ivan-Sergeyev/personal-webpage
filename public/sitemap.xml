@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/talk/example-talk/</loc>
+    <loc>http://localhost:1313/~isergeev/public/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/event/</loc>
+    <loc>http://localhost:1313/~isergeev/public/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/post/blog-with-jupyter/</loc>
+    <loc>http://localhost:1313/~isergeev/public/post/blog-with-jupyter/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/post/</loc>
+    <loc>http://localhost:1313/~isergeev/public/post/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/</loc>
+    <loc>http://localhost:1313/~isergeev/public/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tag/academic/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/categories/</loc>
+    <loc>http://localhost:1313/~isergeev/public/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/category/demo/</loc>
+    <loc>http://localhost:1313/~isergeev/public/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tags/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/post/getting-started/</loc>
+    <loc>http://localhost:1313/~isergeev/public/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://localhost:1313/~isergeev/public/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/post/writing-technical-content/</loc>
+    <loc>http://localhost:1313/~isergeev/public/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication/preprint/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication-type/article/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication_types/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tag/source-themes/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/slides/</loc>
+    <loc>http://localhost:1313/~isergeev/public/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/slides/example/</loc>
+    <loc>http://localhost:1313/~isergeev/public/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/tag/demo/</loc>
+    <loc>http://localhost:1313/~isergeev/public/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/project/example/</loc>
+    <loc>http://localhost:1313/~isergeev/public/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/project/external-project/</loc>
+    <loc>http://localhost:1313/~isergeev/public/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/project/</loc>
+    <loc>http://localhost:1313/~isergeev/public/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication/journal-article/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://pub.ista.ac.at/~isergeev/public/publication-type/paper-conference/</loc>
+    <loc>http://localhost:1313/~isergeev/public/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
