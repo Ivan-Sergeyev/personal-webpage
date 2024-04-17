@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ivan Sergeev # Website name
-baseURL: 'https://pub.ista.ac.at/~isergeev/' # Website URL  # todo: update
+baseURL: '/' # Website URL  # todo: update
 
 ############################
 ## LANGUAGE
