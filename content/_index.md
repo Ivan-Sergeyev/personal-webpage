@@ -31,27 +31,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Postdoctoral Researcher
+        - title: Postdoc
           company: Institute of Science and Technology Austria (ISTA)
           company_url: 'https://ista.ac.at/en/home/'
           company_logo: ''
           location: Austria
           date_start: '2024-03-01'
-          date_end: ''
+          date_end: 'current'
           description: |2-
               My main research project is about maximum a posteriori (MAP) inference in Markov random fields (MRF).
               I also dabble in formal theorem verification in Lean.
-        - title: Scientific Assistant
-          company: '[ETH Zurich](https://ethz.ch/en.html), asd'
-          company_url: ''
+        - title: Doctoral Student
+          company: 'ETH Zurich'
+          company_url: 'https://ethz.ch/en.html'
           company_logo: ''
           location: Switzerland
           date_start: '2020-04-01'
           date_end: '2023-12-31'
           description: |2-
-            - [Prof. Rico Zenklusen's](https://math.ethz.ch/ifor/groups/zenklusen_group/rico-zenklusen.html) group at the [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor).
-            - Designed approximation algorithms for online optimization problems, especially the matroid secretary problem and its variations.
-            - Co-authored research papers and presented findings at international conferences.
+            - [Prof. Rico Zenklusen's](https://math.ethz.ch/ifor/groups/zenklusen_group/rico-zenklusen.html) group at the [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor)
+            - Designed approximation algorithms for online optimization problems, especially the matroid secretary problem and its variations
+            - Co-authored research papers and presented findings at international conferences
         - title: Teaching Assistant
           company: ETH Zurich
           company_url: 'https://ethz.ch/en.html'
@@ -60,9 +60,9 @@ sections:
           date_start: '2019-09-15'
           date_end: '2023-12-31'
           description: |2-
-            - [Prof. Rico Zenklusen's](https://math.ethz.ch/ifor/groups/zenklusen_group/rico-zenklusen.html) group at the [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor).
-            - Coordinated and mentored TA teams, designed course materials, and taught classes.
-            - Supervised student projects: semester papers, bachelor theses, and master theses.
+            - [Prof. Rico Zenklusen's](https://math.ethz.ch/ifor/groups/zenklusen_group/rico-zenklusen.html) group at the [Institute for Operations Research (IFOR)](https://math.ethz.ch/ifor)
+            - Coordinated and mentored TA teams, designed course materials, and taught classes
+            - Supervised student projects, including semester papers, bachelor theses, and master theses
     design:
       columns: '2'
   # - block: accomplishments
@@ -214,7 +214,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: '' # Feel free to email me or come by my office.
+      text: 'Feel free to email me or come by my office'
       # Contact (add or remove contact options as necessary)
       email: ivan.sergeev@ist.ac.at
       # phone: 888 888 88 88
@@ -226,7 +226,7 @@ sections:
         postcode: '3400'
         country: Austria
         # country_code: AT
-      directions: Main building, floor 3, office I01.O3.070
+      directions: Main building, 3rd floor, office I01.O3.070
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
